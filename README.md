@@ -1,2 +1,2 @@
-# Iloczyn-iloraz-dw-ch-liczb
-Obliczenie iloczynu oraz ilorazu  dwóch czynników.
+Zadanie 2
+Program obliczania iloczynu dwóch czynnikow oraz obliczania ilorazu.
